@@ -7,4 +7,4 @@
  [Kostas Daniilidis](http://tancik.com/)\
 University of Pennsylvania
 
-<img src='imgs/main'/>
+<img src='imgs/main.jpg'/>
