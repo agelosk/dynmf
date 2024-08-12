@@ -6,6 +6,7 @@
  [Jiahui Lei](https://www.cis.upenn.edu/~leijh/)\,
  [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)\
 University of Pennsylvania
+The paper is accepted in ECCV 2024!
 
 <img src='imgs/main.jpg'/>
 
